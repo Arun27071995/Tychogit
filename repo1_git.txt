@@ -1,3 +1,9 @@
 hello github 
 hello world
 kdj
+git --version
+git init
+git add
+git commit 
+git push
+git status
